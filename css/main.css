@@ -1,0 +1,19 @@
+section {
+  background-color: #f6b335;
+}
+
+section h1 {
+  color: #ffff43;
+  font-family: 'Staatliches', cursive;
+}
+
+section p {
+  color: #161111;
+  font-family: 'Rubik', sans-serif;
+}
+
+.mapa {
+  height: 300px;
+  width: 800px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,19 @@
+$fondos:#0f840f;
+  $fondos2:#f6b335;
+  $dfondos3:#ffff43;
+  $letras: #161111;
+  @mixin sizes($width, $height) {
+    height: $height;
+    width: $width;}
+ 
+header{
+    background-color: $fondos;
+    font-family: 'Staatliches', cursive;
+}
+nav{
+    background-color: $fondos;
+    
+}
+#carouselExampleControls{
+  @include sizes(500px, 300px);
+}

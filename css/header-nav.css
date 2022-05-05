@@ -1,0 +1,14 @@
+header {
+  background-color: #0f840f;
+  font-family: 'Staatliches', cursive;
+}
+
+nav {
+  background-color: #0f840f;
+}
+
+#carouselExampleControls {
+  height: 300px;
+  width: 500px;
+}
+/*# sourceMappingURL=header-nav.css.map */

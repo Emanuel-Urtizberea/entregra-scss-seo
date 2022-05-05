@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+#menu a {
+  font-size: 18px;
+  font-weight: 400;
+  color: #3f3f3f;
+}
+
+#menu button {
+  font-size: 18;
+  font-weight: 400;
+}
+
+.carousel-inner {
+  max-height: 39rem;
+}
+
+#pie {
+  color: white;
+}
+
+#msg textarea {
+  resize: none;
+}
+
+body {
+  background-color: #f6b335;
+}
+
+header {
+  background-color: #0f840f;
+  font-family: 'Staatliches', cursive;
+}
+
+nav {
+  background-color: #0f840f;
+}
+
+#carouselExampleControls {
+  height: 300px;
+  width: 600px;
+}
+
+section {
+  background-color: #f6b335;
+}
+
+section h1 {
+  color: #ffff43;
+  font-family: 'Staatliches', cursive;
+}
+
+section p {
+  color: #161111;
+  font-family: 'Rubik', sans-serif;
+}
+
+.mapa {
+  height: 200px;
+  width: 400px;
+}
+
+footer {
+  background-color: #0f840f;
+  font-family: 'Rubik', sans-serif;
+}
+
+footer p {
+  color: #161111;
+  font-family: 'Rubik', sans-serif;
+}
+/*# sourceMappingURL=estilo.css.map */

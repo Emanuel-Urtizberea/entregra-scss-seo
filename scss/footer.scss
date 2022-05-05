@@ -1,0 +1,13 @@
+$fondos:#0f840f;
+  $fondos2:#f6b335;
+  $fondos3:#ffff43;
+  $letras: #161111;
+
+footer{
+    background-color: $fondos;
+    font-family: 'Rubik', sans-serif;
+    p{
+        color: $letras;
+        font-family: 'Rubik', sans-serif;
+    }
+}
